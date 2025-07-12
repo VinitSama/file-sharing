@@ -2,7 +2,7 @@
 
 SEE ON POSTMAN> 
 
-[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://www.postman.com/gokeep/file-sharing/collection/u0dw7ru/file-sharing-apis?action=share&source=copy-link&creator=0&active-environment=a3c51181-48b1-4782-a8e2-ba3444e22731)
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://www.postman.com/gokeep/workspace/file-sharing/collection/45745441-b9f1f287-1881-4c00-950e-8a3529dd2e72?action=share&source=copy-link&creator=45745441&active-environment=a3c51181-48b1-4782-a8e2-ba3444e22731)
 
 This project contains two main sets of API endpoints:
 
