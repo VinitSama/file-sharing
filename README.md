@@ -1,5 +1,8 @@
 # Postman Usage Guide for File Sharing System
 
+SEE ON POSTMAN> 
+[<img src="https://run.pstmn.io/button.svg" alt="Run In Postman" style="width: 128px; height: 32px;">](https://app.getpostman.com/run-collection/45745441-b9f1f287-1881-4c00-950e-8a3529dd2e72?action=collection%2Ffork&source=rip_markdown&collection-url=entityId%3D45745441-b9f1f287-1881-4c00-950e-8a3529dd2e72%26entityType%3Dcollection%26workspaceId%3D4ba94815-a972-441e-858f-109f4f81c97d#?env%5BNew%20Environment%5D=W3sia2V5IjoiYmFzZV91cmwiLCJ2YWx1ZSI6Imh0dHBzOi8vZmlsZS1zaGFyaW5nLTRnZ3Iub25yZW5kZXIuY29tIiwiZW5hYmxlZCI6dHJ1ZSwidHlwZSI6ImRlZmF1bHQiLCJzZXNzaW9uVmFsdWUiOiJodHRwczovL2ZpbGUtc2hhcmluZy00Z2dyLm9ucmVuZGVyLmNvbSIsImNvbXBsZXRlU2Vzc2lvblZhbHVlIjoiaHR0cHM6Ly9maWxlLXNoYXJpbmctNGdnci5vbnJlbmRlci5jb20iLCJzZXNzaW9uSW5kZXgiOjB9XQ==)
+
 This project contains two main sets of API endpoints:
 
 - **Client APIs**
