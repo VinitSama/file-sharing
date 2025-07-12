@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+.ENV/
+
+# Environment variable files
+.env
+.env.*
+
+# IDEs and editors
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and local data
+*.log
+*.sqlite3
+
+# Mypy, Pyright, Pylint, etc.
+.mypy_cache/
+.pyright/
+.pytest_cache/
+.coverage
+
+# Uploads and static data
+uploads/
+media/
+
+# Database files (if any local SQLite)
+*.db
+
+# Ignore test coverage reports
+htmlcov/
+
+# Ignore compiled Cython files
+*.c
+
+# Ignore postman collections (optional)
+*.postman_collection.json
